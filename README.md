@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Alex Cibotari, a ``Senior Tech Lead and Architect`` from Switzerland (CH). I have been building backend and frontend applications for more then 20 years.
+I'm Alex Cibotari, a ``Senior Tech Lead and Software Architect`` from Switzerland :switzerland:. I have been building backend and frontend applications for more then 20 years.
 
 ## I'm currently working on
 
