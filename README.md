@@ -1,7 +1,8 @@
 # Hi there 👋
 
-### I'm Alex Cibotari, a ``software engineer`` from Switzerland (CH). I have been building backend and frontend applications for more then 20 years.
+### I'm Alex Cibotari, a ``Senior Tech Lead and Architect`` from Switzerland (CH). I have been building backend and frontend applications for more then 20 years.
 
+## I'm currently working on [**Localess**](https://github.com/Lessify/localess) - a tool to manage localized content for your projects with management tool and content management system.
 <!--
 **alexcibotari/alexcibotari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
